@@ -1,0 +1,24 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Oct 22, 2023, 3:15:26 AM
+    Author     : MM
+*/
+
+:root{
+    --header-height:500px;
+    --navbar-height:100px;
+    --primary-color : rgb(215, 146, 107);
+}
+
+
+html{
+    font-size: 62.5%;  /*dung nay de doi de dang trong chuyen doi rem*/
+    line-height: 1.6rem;  
+}
+
+
+
+
